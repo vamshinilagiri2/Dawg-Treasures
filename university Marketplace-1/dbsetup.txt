@@ -1,0 +1,3 @@
+go to C:\Users\university Marketplace\unimart\src\main\resources\application
+under spring .datasource.username= $spring .datasource.password=. update the information to whatever username you have for mysql and if you have any password enter it there.
+in mysql create a database called unimart and then run the application in intellij
